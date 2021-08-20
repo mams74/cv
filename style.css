@@ -1,0 +1,37 @@
+h2{
+    color: #3498DB
+}
+h1{
+    text-align: center;
+}
+#ma_tof{
+    text-align: center;
+}
+body{
+    background-image: url("https://maximumwallhd.com/wp-content/uploads/2015/07/fonds-ecran-paysage-de-reve-161.jpg");
+    color: white;
+}
+ol, p, ul{
+    font-size: 1.3em;
+}
+h2{
+    font-size: 2em;
+}
+h1{
+    font-family: 
+}
+@font-face {
+    font-family: 'aleoitalic';
+    src: url('fonts/Aleo-Italic-webfont.eot');
+    src: url('fonts/Aleo-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Aleo-Italic-webfont.woff2') format('woff2'),
+         url('fonts/Aleo-Italic-webfont.woff') format('woff'),
+         url('fonts/Aleo-Italic-webfont.ttf') format('truetype'),
+         url('fonts/Aleo-Italic-webfont.svg#aleoitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+h1{
+    font-family: 'aleoitalic';
+}
